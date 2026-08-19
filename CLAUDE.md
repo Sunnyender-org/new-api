@@ -2,8 +2,7 @@
 
 @AGENTS.md
 @BFLABS.md
-@PROJECT_RULES.md
 
 ## Claude Code
 
-- Follow the bootstrap, BF Labs team rules, and repository-specific rules imported above.
+- Follow the bootstrap and this repository's rules imported above.
