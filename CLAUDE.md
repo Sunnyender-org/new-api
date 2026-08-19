@@ -1,7 +1,9 @@
 # CLAUDE.md — Project Conventions for new-api
 
 @AGENTS.md
+@BFLABS.md
+@PROJECT_RULES.md
 
 ## Claude Code
 
-- Follow the shared project instructions imported from `AGENTS.md`.
+- Follow the bootstrap, BF Labs team rules, and repository-specific rules imported above.
